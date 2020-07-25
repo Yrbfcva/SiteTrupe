@@ -93,7 +93,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('img/011.jpeg') no-repeat;
+	background: url('https://raw.githubusercontent.com/Yrbfcva/SiteTrupe/master/img/011.jpeg') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
